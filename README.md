@@ -38,16 +38,18 @@ Acho que sempre que pensamos em qualidade, pensamos em bugs! Que tal aprendermos
 
 **Bug vs. Melhoria**
 
-💡  Um bug pode ser detectado na forma de defeito ou de falha. Normalmente, ele é observado como:
+![](https://media4.giphy.com/media/D5H2pksUeW6Va/giphy.gif)
+
+💡  Um **bug** pode ser detectado na forma de **defeito ou de falha**. Normalmente, ele é observado como:
 
 - Uma divergência de regra de negócio (comportamento atual x comportamento esperado)
 - Uma falha (como um endpoint que não é chamado, que gera um erro para o usuário)
 
-É importante lembrar que um bug impacta na entrega / no resultado esperado para o produto. Por isso, os bugs são geralmente abertos na sprint atual quando detectados.
+É importante lembrar que um bug impacta na entrega / no resultado esperado para o produto. Por isso, os bugs são geralmente abertos na sprint atual quando detectados. Ou seja, eles são de grande prioridade :)
 
-💡 Uma melhoria é uma sugestão de adição na estória que beneficia o produto, ou seja, uma coisa não mapeada na user story. Deve ser analisado:
+💡 Uma **melhoria** é uma sugestão de **adição na estória** que beneficia o produto, ou seja, uma coisa **não mapeada** na user story. Deve ser analisado:
 
 - Essa melhoria é válida para o cliente (quando não aberta por ele)?
 - Essa melhoria cabe no tempo da sprint atual?
 
-Diferente do bug, uma melhoria não impacta na sua entrega! Então, é bom que ao mapear uma seja conversado com o time e agile master se ele cabe ou não na sprint atual!
+Diferente do bug, uma melhoria não impacta na sua entrega! Então, é bom que ao mapear uma seja conversado com o time e agile master se ela cabe ou não na sprint atual!
