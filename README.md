@@ -53,3 +53,10 @@ Acho que sempre que pensamos em qualidade, pensamos em bugs! Que tal aprendermos
 - Essa melhoria cabe no tempo da sprint atual?
 
 Diferente do bug, uma melhoria não impacta na sua entrega! Então, é bom que ao mapear uma seja conversado com o time e agile master se ela cabe ou não na sprint atual!
+
+# 3 - Mas então, qual a atuação do QA?
+
+Como já disse nos itens anteriores, o QA atua em todas as etapas do projeto! A grande questão é, como? Vamos conhecer um pouquinho mais? :)
+
+![](![image](https://user-images.githubusercontent.com/53586997/127193375-6929ec27-1d58-4d4a-b628-b6c2f09b16e5.png)
+
